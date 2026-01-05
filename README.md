@@ -1,4 +1,17 @@
-# REVERSE JOURNAL
-The journal of Reverse Engineering Techniques
+# CYBER JOURNAL
 
-This is a mini blog of some techniques and write-ups for CTF and other challenges.
+The cybersecurity is growing rapidly as the need of the more modern technologies. 
+
+This is my little note to solve the challenges (including write-ups for CTF, for instance) and highlight the techniques being used.
+
+Some noticeable areas:
+ - Web
+ - Reverse Engineering
+ - Pwn
+ - Cryptography
+ - Forensics
+ - Network
+ - Steganography
+ - Blockchain
+ - OSINT
+ - Misc
